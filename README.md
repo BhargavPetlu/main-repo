@@ -46,4 +46,4 @@ No need for constant internet access.
 
 If the main server crashes, anyone with a copy can restore it.
 
-Examples: Git, Mercurial, Bazaar.
+#Examples: Git, Mercurial, Bazaar.
